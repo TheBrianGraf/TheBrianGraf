@@ -1,4 +1,3 @@
-![Ayu Adiati Banner](https://user-images.githubusercontent.com/45172775/179356306-9a3522a8-b26d-47b8-bfdf-bd052dbb36ce.svg)
 
 # Hi, I'm Brian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
