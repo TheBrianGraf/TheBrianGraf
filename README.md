@@ -15,22 +15,10 @@ You can find me here 👇
 
 </div>
 
-<br> 
-## 💻 Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Visual Studio Code-FB750B?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge&logoWidth=30" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/-Canva-FB750B?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=30" alt="Canva">
-</div>
-
-
 ### In my learning list
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Typescript-FADDC6?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
-  <img src="https://img.shields.io/badge/-Sass-FADDC6?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=30" alt="Sass">
-  <img src="https://img.shields.io/badge/-Cypress-FADDC6?logo=cypress&logoColor=17202C&style=for-the-badge&logoWidth=30" alt="Cypress">
   <img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
   <img src="https://img.shields.io/badge/-Remix-FADDC6?logo=remix&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Remix">
