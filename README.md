@@ -15,13 +15,3 @@ You can find me here 👇
 
 </div>
 
-### In my learning list
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Typescript-FADDC6?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
-  <img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
-  <img src="https://img.shields.io/badge/-Remix-FADDC6?logo=remix&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Remix">
-  <img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">
-</div>
-
