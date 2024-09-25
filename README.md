@@ -1,7 +1,7 @@
 
 # Hi, I'm Brian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-I am the Director of the VMware {Code} Program.
+I am the Sr. Manager of DevRel at NetApp Instaclustr.
 
 I've always enjoyed writing code and finally seeing it work. The euphoric feeling of completing a project that had been extremely frustrating to figure out. It's time to share these publicly! Want to find me on Social? [Twitter](https://twitter.com/thebriangraf).
 
